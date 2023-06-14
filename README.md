@@ -1,4 +1,4 @@
-### Kirill Mamonov - Head of the Content System Analytics Group at Dzen
+### Kirill Mamonov - Head of the Content System Analytics at Dzen
 
 - Work in DS since 2016
 - [MSc](https://sber.pro/publication/sber-i-mfti-uchredili-fiztekh-shkolu-biznesa-vysokikh-tekhnologii) in Business at MIPT with Sber
